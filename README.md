@@ -1,1 +1,6 @@
-# Portfolio & Projects
+- 👋 Hi, I’m @Fazeelimam
+- 👋 I'm a Software Engineer Students and Web Developer as well.
+- 👀 I’m interested in Full stack Development & Software Development
+- 🌱 I’m currently learning Full Stack Development
+- 💞️ I’m looking to collaborate on Interns and Remote Jobs
+- ⚡ Fun fact: Some times coding irritates me 
