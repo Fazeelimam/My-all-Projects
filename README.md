@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazeelimam&label=Profile%20views&color=0e75b6&style=flat" alt="fazeelimam" /> </p>
 
-- 🔭 I’m currently learning skills on **C# and Python**
+- 🔭 I’m currently learning skills on **ASP.NET [.NEt] and Python**
 
 - 🌱 I’m currently learning **Software Engineering and I'm also enrolled in Full Stack Development Diploma Course.**
 
-- 💬 Ask me about **PHP, Laravel , SQL Server , C#...**
+- 💬 Ask me about **PHP, Laravel , SQL Server , Mysql , APACHE , C#...**
 
 - 📫 How to reach me **fazeelimam6@gmail.com**
 
