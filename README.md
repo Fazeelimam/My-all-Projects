@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently learning skills on **ASP.NET [.NEt] and Python**
 
-- 🌱 I’m currently learning **Software Engineering and I'm also enrolled in Full Stack Development Diploma Course.**
+- 🌱 I’m currently learning **Software Engineering and I'm also enrolled in Full Stack Development & Data Analytics Professional Diploma Course.**
 
-- 💬 Ask me about **PHP, Laravel , SQL Server , Mysql , APACHE , C#...**
+- 💬 Ask me about **Front & Web Developer , Web Development, Figma ,PHP, Laravel , SQL Server , Mysql , Restful API, APACHE , C# , Angular , TypeScript , ASP.NETCore, .NETFrameworkCore, **
 
 - 📫 How to reach me **fazeelimam6@gmail.com**
 
